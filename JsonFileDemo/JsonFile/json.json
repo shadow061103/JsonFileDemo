@@ -1,0 +1,27 @@
+[
+  {
+    "BankId": "AAA",
+    "BankName": "TESTA",
+    "Status": 1
+  },
+  {
+    "BankId": "BBB",
+    "BankName": "TESTB",
+    "Status": 1
+  },
+  {
+    "BankId": "CCC",
+    "BankName": "TESTC",
+    "Status": 1
+  },
+  {
+    "BankId": "DDD",
+    "BankName": "TESTD",
+    "Status": 1
+  },
+  {
+    "BankId": "EEE",
+    "BankName": "TESTE",
+    "Status": 1
+  }
+]
