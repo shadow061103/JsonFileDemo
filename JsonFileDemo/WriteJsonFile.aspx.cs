@@ -49,12 +49,32 @@ namespace JsonFileDemo
         }
         public void GetData()
         {
-            bankList.Add(new Bank() { BankId = "AAA", BankName = "TESTA" ,Status=1});
-            bankList.Add(new Bank() { BankId = "BBB", BankName = "TESTB", Status = 1 });
-            bankList.Add(new Bank() { BankId = "CCC", BankName = "TESTC", Status = 1 });
-            bankList.Add(new Bank() { BankId = "DDD", BankName = "TESTD", Status = 1 });
-            bankList.Add(new Bank() { BankId = "EEE", BankName = "TESTE", Status = 1 });
-            
+            bankList.Add(new Bank() { BankId = "TEST0021", BankName = "SBI Bank A" ,Status=1});
+            bankList.Add(new Bank() { BankId = "TEST0022", BankName = "SBI Bank B", Status = 1 });
+            bankList.Add(new Bank() { BankId = "TEST0023", BankName = "SBI Bank C", Status = 1 });
+            bankList.Add(new Bank() { BankId = "TEST0001", BankName = "Test Bank A", Status = 1 });
+            bankList.Add(new Bank() { BankId = "TEST0002", BankName = "Test Bank B", Status = 1 });
+            bankList.Add(new Bank() { BankId = "TEST0003", BankName = "Test Bank C", Status = 1 });
+            bankList.Add(new Bank() { BankId = "TEST0004", BankName = "Test Bank D", Status = 1 });
+            bankList.Add(new Bank() { BankId = "TEST0005", BankName = "Test Bank E", Status = 1 });
+            bankList.Add(new Bank() { BankId = "ABB0233", BankName = "Affin Bank", Status = 1 });
+            bankList.Add(new Bank() { BankId = "ABMB0212", BankName = "Alliance Bank", Status = 1 });
+            bankList.Add(new Bank() { BankId = "AMBB0209", BankName = "AmBank", Status = 1 });
+            bankList.Add(new Bank() { BankId = "BIMB0340", BankName = "Bank Islam", Status = 1 });
+            bankList.Add(new Bank() { BankId = "BKRM0602", BankName = "Bank Rakyat", Status = 1 });
+            bankList.Add(new Bank() { BankId = "BMMB0341", BankName = "Bank Muamalat", Status = 1 });
+            bankList.Add(new Bank() { BankId = "BSN0601", BankName = "BSN", Status = 1 });
+            bankList.Add(new Bank() { BankId = "BCBB0235", BankName = "CIMB Clicks", Status = 1 });
+            bankList.Add(new Bank() { BankId = "HLB0224", BankName = "Hong LeongBank", Status = 1 });
+            bankList.Add(new Bank() { BankId = "HSBC0223", BankName = "HSBC Bank", Status = 1 });
+            bankList.Add(new Bank() { BankId = "KFH0346", BankName = "KFH", Status = 1 });
+            bankList.Add(new Bank() { BankId = "MB2U0227", BankName = "Maybank2U", Status = 1 });
+            bankList.Add(new Bank() { BankId = "MBB0228", BankName = "Maybank2E", Status = 1 });
+            bankList.Add(new Bank() { BankId = "OCBC0229", BankName = "OCBC Bank", Status = 1 });
+            bankList.Add(new Bank() { BankId = "PBB0233", BankName = "Public Bank", Status = 1 });
+            bankList.Add(new Bank() { BankId = "RHB0218", BankName = "RHB Bank", Status = 1 });
+            bankList.Add(new Bank() { BankId = "SCB0216", BankName = "Standard Chartered", Status = 1 });
+            bankList.Add(new Bank() { BankId = "UOB0226", BankName = "UOB Bank", Status = 1 });
         }
     }
 }
